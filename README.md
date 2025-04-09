@@ -38,7 +38,7 @@ The implemented neural network has the following structure:
 - Output layer: 10 neurons (digits 0-9) with softmax activation
 
 ## Setup Instructions
-
+*Make Sure the folder name is NNonEsp32*
 1. **Configure WiFi Settings**
    - Open `NNonEsp32.ino`
    - Update the WiFi credentials:
