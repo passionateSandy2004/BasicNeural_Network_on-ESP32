@@ -79,9 +79,6 @@ The server responds with a JSON object containing:
 - ESP8266WiFi library
 - Arduino core for ESP8266
 
-## License
-
-[Add your license information here]
 
 ## Acknowledgments
 
